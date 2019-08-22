@@ -1,0 +1,1 @@
+# Maven Assembly Plugin Example
