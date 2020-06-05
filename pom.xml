@@ -24,7 +24,7 @@
         <repository>
             <id>github</id>
             <name>GitHub mattamorphic Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/mattamorphic/maven-assembly-example/</url>
+            <url>https://maven.pkg.github.com/jcansdale-test/maven-assembly-example/</url>
         </repository>
     </distributionManagement>
 
